@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="GB2312"?>
+<websites>
+    <site>
+        <name>IT之家</name>
+        <url>http://www.ithome.com/rss/</url>
+        <startTag><![CDATA[<div class="post_content" id="paragraph">]]></startTag>
+        <endTag><![CDATA[<div class="con-recom">]]></endTag>
+        <encoding>GB2312</encoding>
+        <fid>57</fid>
+        <open>false</open>
+    </site>
+
+    <site>
+    <name>虎嗅网</name>
+    <url>http://www.huxiu.com/rss/0.xml</url>
+    <startTag><![CDATA[<table>]]></startTag>
+    <endTag><![CDATA[</table>]]></endTag>
+    <encoding>UTF-8</encoding>
+    <fid>58</fid>
+    <open>false</open>
+    </site>
+    <site>
+        <name>36氪</name>
+        <url>http://www.36kr.com/feed</url>
+        <startTag><![CDATA[<div class="mainContent sep-10">]]></startTag>
+        <endTag><![CDATA[<div id="krapi" class="sep20">]]></endTag>
+        <encoding>UTF-8</encoding>
+        <fid>56</fid>
+        <open>false</open>
+    </site>
+    <site>
+        <name>猎云网</name>
+        <url>http://www.lieyunwang.com/feed</url>
+        <startTag><![CDATA[<div class="bd">]]></startTag>
+        <endTag><![CDATA[<div id="weibo_box">]]></endTag>
+        <encoding>UTF-8</encoding>
+        <fid>55</fid>
+        <open>true</open>
+    </site>
+    <site>
+        <name>CSDN</name>
+        <url>http://www.csdn.net/article/rss_lastnews</url>
+        <startTag><![CDATA[<div class="con news_content">]]></startTag>
+        <endTag><![CDATA[<div class="share" >]]></endTag>
+        <encoding>UTF-8</encoding>
+        <fid>62</fid>
+        <open>false</open>
+    </site>
+    <site>
+        <name>CSDN-移动博客</name>
+        <url>http://blog.csdn.net/rss.html?type=Home&amp;channel=mobile</url>
+        <startTag><![CDATA[<div id="article_content" class="article_content">]]></startTag>
+        <endTag><![CDATA[<!-- Baidu Button BEGIN -->]]></endTag>
+        <encoding>UTF-8</encoding>
+        <fid>66</fid>
+        <open>false</open>
+    </site>
+    <site>
+        <name>CSDN-编程语言</name>
+        <url>http://blog.csdn.net/rss.html?type=Home&amp;channel=code</url>
+        <startTag><![CDATA[<div id="article_content" class="article_content">]]></startTag>
+        <endTag><![CDATA[<!-- Baidu Button BEGIN -->]]></endTag>
+        <encoding>UTF-8</encoding>
+        <fid>66</fid>
+        <open>false</open>
+    </site>
+    <site>
+        <name>CSDN-研发管理</name>
+        <url>http://blog.csdn.net/rss.html?type=Home&amp;channel=software</url>
+        <startTag><![CDATA[<div id="article_content" class="article_content">]]></startTag>
+        <endTag><![CDATA[<!-- Baidu Button BEGIN -->]]></endTag>
+        <encoding>UTF-8</encoding>
+        <fid>66</fid>
+        <open>false</open>
+    </site>
+</websites>
